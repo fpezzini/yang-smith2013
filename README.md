@@ -1,5 +1,5 @@
 # yang-smith2014
-My notes on running the Yang and Smith 2014 pipeline.
+My notes on running the Yang and Smith 2014 pipeline. Please see the wiki: https://github.com/fpezzini/yang-smith2014/wiki
 
 Yang, Y., Smith, S. A. 2014. Orthology Inference in Nonmodel Organisms Using Transcriptomes and Low-Coverage Genomes: Improving Accuracy and Matrix Occupancy for Phylogenomics. Mol. Biol. Evol. 31: 3081–3092.
 
